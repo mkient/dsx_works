@@ -1,3 +1,7 @@
 # dsx_works
-Analysis of the genomic variantion in the intron4-exon5 boundary of the doublesex gene in the An. gambiae populations.
-Preprint in https://www.researchsquare.com/article/rs-4996167/v1
+Genomic analyses revealed low genetic variation in the intron-exon boundary of the doublesex gene within the natural populations of An. gambiae s.l. in Burkina Faso.
+
+Genomic analyses have indicated low genetic variation in the intron-exon boundary of the doublesex gene within natural populations of Anopheles gambiae s.l. in Burkina Faso. This finding is significant as it suggests a potential lack of genetic diversity in a key gene associated with sex determination in this malaria vector species. The doublesex gene plays a crucial role in the development of sexual characteristics, and variations in this gene can influence reproductive success and population dynamics. The study conducted in Burkina Faso highlights the importance of understanding genetic variation in mosquito populations, particularly in the context of vector control strategies aimed at reducing malaria transmission. Low genetic variation may limit the adaptability of these populations to environmental changes or control measures, such as genetically engineered gene drives designed to suppress mosquito populations or alter their reproductive capabilities.
+
+Cite this article
+Kientega, M., Morianou, I., Traoré, N. et al. Genomic analyses revealed low genetic variation in the intron-exon boundary of the doublesex gene within the natural populations of An. gambiae s.l. in Burkina Faso. BMC Genomics 25, 1207 (2024). https://doi.org/10.1186/s12864-024-11127-y
